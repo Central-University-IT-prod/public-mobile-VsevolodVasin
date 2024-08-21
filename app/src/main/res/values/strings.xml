@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LifestyleHUB</string>
+    <string name="weather_widget_error">Невозможно получить данные!</string>
+    <string name="temperature">%s °C</string>
+    <string name="temperature_feel">ощущается как %s °C</string>
+    <string name="weather_range">%1$s°C-%2$s°C</string>
+    <string name="name">Название</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="add">Добавить</string>
+    <string name="date_not_correct">Неверный формат даты!</string>
+    <string name="to_place">Перейти на место</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="auth">Войти</string>
+    <string name="register">Создать аккаунт</string>
+    <string name="not_account">Нет аккаунта?</string>
+    <string name="have_account">Уже есть аккаунт</string>
+    <string name="map_mode">Режим карты</string>
+    <string name="add_to_calendar">Добавить в календарь</string>
+</resources>
